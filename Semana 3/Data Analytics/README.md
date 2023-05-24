@@ -1,4 +1,4 @@
-<h1 align="center"> Informe de análisis de datos :bar_chart: 	:mag: </h1>
+<h1 align="center">:mag: Informe de análisis de datos :bar_chart: </h1>
 
 # Tabla de contenidos
 * [Introducción](#Introducción)
@@ -32,20 +32,19 @@ Esta dashboard interactivo muestra la Migración neta (Inmigración - Emigració
    <img width="800" height="400" src="img/dashboard_migracion.png">
    </p>
 
-**_Dashboard Factor decisivo_**
-
+**_Dashboard Factor decisivo:_**
 Esta dashboard resume las principales factores que pueden motivar la migración de un país de origen, como son: _la percepción de la corrupción, la libertad de tomar decisiones vitales y el PIB per cápita_ de cada país.
 <p align="center">
    <img width="800" height="400" src="img/dashboard_factor decisivo.png">
    </p>
 
-**_Dashboard Economía_**
+**_Dashboard Economía:_**
 Esta dashboard resume 
 <p align="center">
    <img width="800" height="400" src="img/dashboard_economia.png">
    </p>
 
-**_Dashboard Calidad de Vida_**
+**_Dashboard Calidad de Vida:_**
 Esta dashboard resume 
 <p align="center">
    <img width="800" height="400" src="img/dashboard_calidad de vida.png">
