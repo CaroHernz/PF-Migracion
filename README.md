@@ -28,9 +28,13 @@ En nuestro repositorio encontraras el desarrollo de las actividades realizadas s
 ## Equipo de trabajo
 **Migration Digital Consulting** somos un equipo multidisciplinario conformado por:
 
+<p align="center">
+
 |[Hamil Selim](https://www.linkedin.com/in/hamil-balverdi/)  | [Ricardo Lopera](https://www.linkedin.com/in/ricardo-lopera-márquez-839602276/) | [Carolina Hernández](https://www.linkedin.com/in/carolinahernandezbarra/)  | [Lorenzo Prado](https://github.com/gvbrilo)  |
 |---|---|---|---|
 |_Data Analyst_|_Data Engineer_  |_Analista Funcional_|_Machine Learning_|
+
+</p>
 
 ## Stack tecnológico:
 <p align="center">
