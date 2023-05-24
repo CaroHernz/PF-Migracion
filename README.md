@@ -30,7 +30,7 @@ En nuestro repositorio encontraras el desarrollo de las actividades realizadas s
 
 <p align="center">
 
-|[Hamil Selim](https://www.linkedin.com/in/hamil-balverdi/)  | [Ricardo Lopera](https://www.linkedin.com/in/ricardo-lopera-márquez-839602276/) | [Carolina Hernández](https://www.linkedin.com/in/carolinahernandezbarra/)  | [Lorenzo Prado](https://github.com/gvbrilo)  |
+|[Hamil Flores](https://www.linkedin.com/in/hamil-balverdi/)  | [Ricardo Lopera](https://www.linkedin.com/in/ricardo-lopera-márquez-839602276/) | [Carolina Hernández](https://www.linkedin.com/in/carolinahernandezbarra/)  | [Lorenzo Prado](https://github.com/gvbrilo)  |
 |---|---|---|---|
 |_Data Analyst_|_Data Engineer_  |_Analista Funcional_|_Machine Learning_|
 
