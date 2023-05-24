@@ -1,7 +1,6 @@
 <p align="center">
    <img width="800" height="368" src="img/main.png">
    </p>
-<p align="left"> Proyecto Grupal - Data Sciente - Cohorte 09 - Grupo 9 </p>
 
 ## Introducción
 Las tendencias migratorias en el hemisferio occidental han cambiado significativamente en la última década. La movilidad humana ha aumentado en los últimos años en toda América Latina y la migración intrarregional también ha sido una tendencia común, México y los países de América central y del sur han servido tanto como emisores, receptores como de tránsito.
@@ -17,17 +16,25 @@ Nuestros objetivos para afrontar la situación anteriormente planteada son:
 3. Analizar la situación económica de los migrantes para comprender como la migración afecta la economía del país de origen y destino.
 4. Comparar el índice de felicidad de los diferentes países de Latinoamérica con el índice de felicidad de Estados Unidos.
 
-### Propuesta de solución
+## Desarrollo 
+En nuestro repositorio encontraras el desarrollo de las actividades realizadas semana a semana. A continuación un breve resumen de lo que encontraras en ellas:
++ **Semana 1:** 
++ **Semana 2:** 
++ **Semana 3:** 
 
-#### Stack tecnológico:
-
-
-### Modelo de Machine Learning
-[Disponibilización de Modelo de Machine Learning](https://gvbrilo-streamlit-app--principal-72ejtx.streamlit.app/)
+   - [Visualización del Análisis de Datos](https://app.powerbi.com/reportEmbed?reportId=581a568a-031e-4a5f-ac3b-855c0745e528&autoAuth=true&ctid=c9553b71-e9f5-4264-9080-f30bc2ddf506)
+   - [Disponibilización de Modelo de Machine Learning](https://gvbrilo-streamlit-app--principal-72ejtx.streamlit.app/)
 
 ## Equipo de trabajo
-El equipo de **Migration Digital Consulting** esta conformado por:
+**Migration Digital Consulting** somos un equipo multidisciplinario conformado por:
 
 |[Hamil Selim](https://www.linkedin.com/in/hamil-balverdi/)  | [Ricardo Lopera](https://www.linkedin.com/in/ricardo-lopera-márquez-839602276/) | [Carolina Hernández](https://www.linkedin.com/in/carolinahernandezbarra/)  | [Lorenzo Prado](https://github.com/gvbrilo)  |
 |---|---|---|---|
 |_Data Analyst_|_Data Engineer_  |_Analista Funcional_|_Machine Learning_|
+
+## Stack tecnológico:
+<p align="center">
+   <img width="80" height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png"><img width="107" height="80" src="https://connect.nuxeo.com/nuxeo/site/marketplace/package/amazon-s3-online-storage/screenshot/1/img.png"><img width="110" height="80" src="https://dotnet.microsoft.com/blob-assets/images/customers/power-bi.png">
+   <img width="150" height="87" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
+   </p>
+   
