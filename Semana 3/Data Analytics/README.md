@@ -51,5 +51,3 @@ Esta dashboard resume ,  se expresa la relavancia que posea temas q no estan vin
 <p align="center">
    <img width="800" height="450" src="img/dashboard_calidad de vida.png">
    </p>
-
-+ Sugerencias
