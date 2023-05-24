@@ -22,7 +22,8 @@ En nuestro repositorio encontraras el desarrollo de las actividades realizadas s
 + **Semana 2:** trabajamos la ingeniería de datos, realizamos el proceso de ETL definitivo, además de un Análisis Exploratorio de Datos, como desafio teniamos que crear un data warehouse funcional para las tareas posteriores, así como definir nuestro flujo de trabajo, la arquitectura de los datos y las tecnologías a usar en este proyecto. [Ingeniería de Datos](https://github.com/Hamil32/PF-Migracion/blob/main/Semana%202)
 + **Semana 3:** ya procesados los datos nos volcamos a la tarea de su análisis y la creación de un modelo de Machine Learning. La información se encuentra más en detalle en [Data Analytics](https://github.com/Hamil32/PF-Migracion/tree/main/Semana%203/Data%20Analytics) y [Modelo de Machine Learning](https://github.com/Hamil32/PF-Migracion/tree/main/Semana%203/ML)
 
-Como resultado de esta semana obtuvimos:
+## Producto final
+Como resultado de este proyecto construimos una aplicación web que disponibiliza la información, y esperamos que esta llegue tanto a las personas que tengan intención de migrar, a nuestros clientes hasta los gobiernos.
    - [Visualización del Análisis de Datos](https://app.powerbi.com/reportEmbed?reportId=581a568a-031e-4a5f-ac3b-855c0745e528&autoAuth=true&ctid=c9553b71-e9f5-4264-9080-f30bc2ddf506)
    - [Disponibilización de Modelo de Machine Learning](https://gvbrilo-streamlit-app--principal-72ejtx.streamlit.app/)
 
