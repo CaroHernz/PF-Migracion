@@ -19,8 +19,8 @@ Nuestros objetivos para afrontar la situación anteriormente planteada son:
 ## Desarrollo 
 En nuestro repositorio encontraras el desarrollo de las actividades realizadas semana a semana. A continuación un breve resumen de lo que encontraras en ellas:
 + **Semana 1:** 
-+ **Semana 2:** 
-+ **Semana 3:** 
++ **Semana 2:** [Data Engineering](https://github.com/Hamil32/PF-Migracion/blob/main/Semana%202)
++ **Semana 3:** [Data Analytics](https://github.com/Hamil32/PF-Migracion/tree/main/Semana%203/Data%20Analytics) y [Modelo de Machine Learning](https://github.com/Hamil32/PF-Migracion/tree/main/Semana%203/ML)
 
    - [Visualización del Análisis de Datos](https://app.powerbi.com/reportEmbed?reportId=581a568a-031e-4a5f-ac3b-855c0745e528&autoAuth=true&ctid=c9553b71-e9f5-4264-9080-f30bc2ddf506)
    - [Disponibilización de Modelo de Machine Learning](https://gvbrilo-streamlit-app--principal-72ejtx.streamlit.app/)
