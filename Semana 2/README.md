@@ -60,7 +60,7 @@ Las tecnologías elegidas para el desarrollo de este proyecto fueron:
 Esta arquitectura de datos implica la carga de datos desde archivos CSV, su transformación mediante operaciones de limpieza y filtrado, para finalizar en una carga de los datos transformados a AWS S3. 
 
 ### *Video demostrativo*
-En el siguiente [link]([https://drive.google.com/](https://drive.google.com/file/d/1S8M2ct_PLRBhuQ7ltWj5JGv6X4DwYZAE/view?usp=drive_link)) se explica el flujo de datos con más detalle.
+En el siguiente [link](https://drive.google.com/file/d/1S8M2ct_PLRBhuQ7ltWj5JGv6X4DwYZAE/view?usp=drive_link)) se explica el flujo de datos con más detalle.
 
 ## Modelo ER
  <p align="center">
