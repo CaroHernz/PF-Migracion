@@ -1,11 +1,11 @@
-<h1 align="center">:mag: Informe de análisis de datos :bar_chart: </h1>
+# <h1 align="center">:mag: Informe de análisis de datos :bar_chart: </h1>
 
-# Tabla de contenidos
+## Tabla de contenidos
 * [Introducción](#Introducción)
 * [Proceso preliminar](#Proceso-preliminar)
 * [Dashboard](#Dashboard)
 
-# Introducción
+## Introducción
 El siguiente análisis de los flujos migratorios en Latinoamérica y Estados Unidos es el resultado del trabajo de las semanas anteriores donde se recopilaron y transformaron datos de gran valor para poder mostrarlos en una visualización sobre los flujos migratorios en Latinoamérica y Estados Unidos, junto con el análisis de las posibles razones que motivan a las personas a migrar, y cómo influyen en esta decisión los factores económicos y la calidad de vida de las personas en su país de origen.
 
 En este análisis trabajaremos los siguientes Indicadores clave de Rendimiento (**KPIs**):
@@ -18,12 +18,12 @@ En este análisis trabajaremos los siguientes Indicadores clave de Rendimiento (
 
 Con el presente dashboard nuestra intensión es disponibilizar la información trabajada en este proyecto a nuestros clientes, gobiernos y toda persona que tenga la intención de migrar en Latinoamérica y Estados Unidos.
 
-# Proceso preliminar
+## Proceso preliminar
 Una vez los datos fueron procesados y cargados AWS S3 los conectamos con Power Bi para usar las tablas. Se aplico cierta limpieza a cada tabla para normalizarlas y que su uso fuera más eficiente, quedando los datos divididos en los tablas:
 + datos de migración (datos_migración)
 + datos de calidad de vida (datos_felicidad)
 
-# Dashboard
+## Dashboard
 Para la creación del Dashboard se utilizó el software PowerBI, donde se creó una portada, una página informativa sobre los KPIs abordados en el dashboard y 4 páginas interactivas, enfocadas en los datos de migración, los posibles factores decisivos a la hora de migrar, datos sobre la economía y la calidad de vida.
 
 **_Dashboard Migración:_**
