@@ -29,25 +29,25 @@ Para la creación del Dashboard se utilizó el software PowerBI, donde se creó 
 **_Dashboard Migración:_**
 Esta dashboard interactivo muestra la Migración neta (Inmigración - Emigración) en los países estudiados, se puede filtrar la información por país y año; y se muestran los KPIs 1 y 2 que nos ayduan a comprender la variación en la migración de Estados Unidos y de cada país de Latinoamérica.
 <p align="center">
-   <img width="800" height="400" src="img/dashboard_migracion.png">
+   <img width="800" height="450" src="img/dashboard_migracion.png">
    </p>
 
 **_Dashboard Factor decisivo:_**
 Esta dashboard resume las principales factores que pueden motivar la migración de un país de origen, como son: _la percepción de la corrupción, la libertad de tomar decisiones vitales y el PIB per cápita_ de cada país.
 <p align="center">
-   <img width="800" height="400" src="img/dashboard_factor decisivo.png">
+   <img width="800" height="450" src="img/dashboard_factor decisivo.png">
    </p>
 
 **_Dashboard Economía:_**
 Esta dashboard resume 
 <p align="center">
-   <img width="800" height="400" src="img/dashboard_economia.png">
+   <img width="800" height="450" src="img/dashboard_economia.png">
    </p>
 
 **_Dashboard Calidad de Vida:_**
 Esta dashboard resume 
 <p align="center">
-   <img width="800" height="400" src="img/dashboard_calidad de vida.png">
+   <img width="800" height="450" src="img/dashboard_calidad de vida.png">
    </p>
 
 + Sugerencias
