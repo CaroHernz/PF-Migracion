@@ -27,11 +27,17 @@ Las tecnologías elegidas para el desarrollo de este proyecto fueron:
    </p>
  
 Nuestro flujo de trabajos consistió en:
+
 **1.	Obtención de los datos crudos en formato CSV:** En primer lugar, se obtienen los datos en bruto de su fuente original, en formato CSV. Estos datos fueron obtenidos de diferentes fuentes ( The World Bank, World Database of Happiness), y los proporcionados por Henry como bases de datos, archivos locales o servicios web.
+
 **2.	Transferencia de los datos a S3 utilizando Boto3:** Utilizando la biblioteca Boto3 de Python, se carga el archivo CSV crudo a un bucket de Amazon S3. Se aseguró que la autenticación sea adecuada y que la política de acceso esté configurada correctamente para que solo los usuarios autorizados puedan acceder a los datos almacenados en S3.
+
 **3.	Transformación de los datos mediante ETL automatizado en Boto3:** Una vez que los datos están almacenados en S3, se transformaron para ser utilizados en el análisis de datos y en la creación de modelos de machine learning. Esto se puede lograr mediante ETL automatizado utilizando Boto3 y otras bibliotecas de Python y Pandas. La transformación incluirá la limpieza y normalización de los datos para que puedan ser utilizados en diferentes plataformas de análisis y modelo ML.
+
 **4.	Almacenamiento de los datos transformados en S3:** Los datos transformados se  almacenaron en S3 en un bucket separado y seguro que esté protegido por la autenticación y la política de acceso adecuadas. También es importante tener en cuenta la gestión de versiones y la retención de datos para asegurar que los datos estén disponibles para el análisis y la modelización en el futuro.
+
 **5.	Análisis de los datos mediante Power BI:** Los datos transformados se van a analizar utilizando herramientas de visualización de datos, como Power BI. Power BI se conecta directamente a los datos almacenados en S3 y permite la creación de gráficos, tablas y otras visualizaciones para identificar patrones y tendencias en los datos.
+
 **6.	Creación de modelos de machine learning utilizando Docker y Apache Airflow:** Finalmente, se pueden utilizar las bibliotecas de Python para crear modelos de machine learning para predecir el comportamiento futuro y tomar decisiones informadas. Para el modelo a construir vamos a utilizar Docker y Apache Airflow, que permiten la orquestación de la infraestructura y la automatización de los flujos de trabajo para la creación y entrenamiento de modelos de machine learning.
 
 Este workflow nos proporciona una base sólida para la migración de datos y la creación de modelos de machine learning utilizando tecnologías modernas y seguras, lo que garantiza que los datos estén disponibles y sean útiles para la toma de decisiones informadas en el futuro.
