@@ -2,24 +2,13 @@
 
 ## Tabla de contenidos
 * [Introducción](##Introducción)
-* [Tecnologías a usar](##Tecnologías-a-usar)
 * [Flujo de trabajo](##Flujo-de-trabajo)
+* [Tecnologías a usar](##Tecnologías-a-usar)
+* [Arquitectura de datos](##Arquitectura-de-datos)
 * [Modelo ER](##Modelo-ER)
 
 ## Introducción
 Esta semana trabajaremos las áreas que involucran al data engineering, tenemos el desafío de crear un Data Warehouse completamente funcional que sea accesible tanto para el área de Analitycs como para el área de Machine Learning. Además, debemos tener nuestra base de datos en AWS S3 e implementar transformaciones a nuestros datos para la consulta de ellos.
-
-## Tecnologías a usar
-Las tecnologías elegidas para el desarrollo de este proyecto fueron:
-
-+ **_AWS S3:_** servicio de almacenamiento de grandes volúmenes de datos, flexible, escalable, seguro y confiable. S3 proporciona almacenamiento de objetos organizados en buckets, donde cada objeto se identifica mediante una clave única asignada por el usuario. Este servicio lo utilizamos para almacenar archivos sin procesar (raw), archivos procesados para consulta y, que a su vez los archivos sin procesar sirvan de backup.
-+ **_Python:_** lenguaje de programación, utilizado para desarrollar aplicaciones de todo tipo. Es un lenguaje interpretado, dinámico y multiplataforma. Es de código abierto y clasificado constantemente como uno de los lenguajes de programación más populares.
-+ **_Librerías de Python_**
-   -	Pandas: librería escrita para el lenguaje Python que permite manipular y analizar datos. Ofrece estructuras de datos y operaciones para la manipulación de tablas numéricas y series temporales.
-   -	Boto3: librería de Python que proporciona una interfaz de programación de aplicaciones para interactuar con el servicio AWS de manera programática. Además nos permite automatizar tareas, administrar recursos y aprovechar la funcionalidad completa de AWS desde su aplicación.
-+ **_Power BI:_** software desarrollado por Microsoft para la visualización de datos de manera interactiva, con enfoque principal en la inteligencia empresarial (_Business Intelligence_).
-+ **_Docker:_** plataforma de contenedores que permite empaquetar aplicaciones y sus dependencias en entornos aislados y portátiles.  Su uso en el proyecto está orientado a la disponibilización del modelo de machine Learning ya que proporciona portabilidad, reproducibilidad, escalabilidad y facilidad de mantenimiento y control de versiones. Además es una opción popular para empaquetar y distribuir modelos de maching Learning, permitiendo su ejecución de manera consistente en diferentes entornos.
-+ **_Airflow:_** herramienta de flujo de trabajo y programación dirigida por datos, y si bien su enfoque principal es la orquestación de tareas, posee características útiles para la implementación y programación de modelos de machine Learning. También brinda una programación flexible lo que permite programar tareas según una programación determinada o desencadenarlas en función de eventos o condiciones específicas, lo que ayudará a gestionar y automatizar el flujo de trabajo necesario para disponibilizar el modelo en un entorno de producción.
 
 ## Flujo de trabajo
 <p align="center">
@@ -42,7 +31,19 @@ Nuestro flujo de trabajos consistió en:
 
 Este workflow nos proporciona una base sólida para la migración de datos y la creación de modelos de machine learning utilizando tecnologías modernas y seguras, lo que garantiza que los datos estén disponibles y sean útiles para la toma de decisiones informadas en el futuro.
 
-### Arquitectura de datos
+## Tecnologías a usar
+Las tecnologías elegidas para el desarrollo de este proyecto fueron:
+
++ **_AWS S3:_** servicio de almacenamiento de grandes volúmenes de datos, flexible, escalable, seguro y confiable. S3 proporciona almacenamiento de objetos organizados en buckets, donde cada objeto se identifica mediante una clave única asignada por el usuario. Este servicio lo utilizamos para almacenar archivos sin procesar (raw), archivos procesados para consulta y, que a su vez los archivos sin procesar sirvan de backup.
++ **_Python:_** lenguaje de programación, utilizado para desarrollar aplicaciones de todo tipo. Es un lenguaje interpretado, dinámico y multiplataforma. Es de código abierto y clasificado constantemente como uno de los lenguajes de programación más populares.
++ **_Librerías de Python_**
+   -	Pandas: librería escrita para el lenguaje Python que permite manipular y analizar datos. Ofrece estructuras de datos y operaciones para la manipulación de tablas numéricas y series temporales.
+   -	Boto3: librería de Python que proporciona una interfaz de programación de aplicaciones para interactuar con el servicio AWS de manera programática. Además nos permite automatizar tareas, administrar recursos y aprovechar la funcionalidad completa de AWS desde su aplicación.
++ **_Power BI:_** software desarrollado por Microsoft para la visualización de datos de manera interactiva, con enfoque principal en la inteligencia empresarial (_Business Intelligence_).
++ **_Docker:_** plataforma de contenedores que permite empaquetar aplicaciones y sus dependencias en entornos aislados y portátiles.  Su uso en el proyecto está orientado a la disponibilización del modelo de machine Learning ya que proporciona portabilidad, reproducibilidad, escalabilidad y facilidad de mantenimiento y control de versiones. Además es una opción popular para empaquetar y distribuir modelos de maching Learning, permitiendo su ejecución de manera consistente en diferentes entornos.
++ **_Airflow:_** herramienta de flujo de trabajo y programación dirigida por datos, y si bien su enfoque principal es la orquestación de tareas, posee características útiles para la implementación y programación de modelos de machine Learning. También brinda una programación flexible lo que permite programar tareas según una programación determinada o desencadenarlas en función de eventos o condiciones específicas, lo que ayudará a gestionar y automatizar el flujo de trabajo necesario para disponibilizar el modelo en un entorno de producción.
+
+## Arquitectura de datos
 
 *	Carga de datos: el código utilizado para la tarea de cargar datos presenta el siguiente orden de ejecución:
     -	Importar librerías necesarias para las tareas de carga y transformación de datos  
