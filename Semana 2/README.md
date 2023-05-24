@@ -2,10 +2,10 @@
 
 ## Tabla de contenidos
 * [Introducción](#Introducción)
-* [Flujo de trabajo](##Flujo-de-trabajo)
-* [Tecnologías a usar](##Tecnologías-a-usar)
-* [Arquitectura de datos](##Arquitectura-de-datos)
-* [Modelo ER](##Modelo-ER)
+* [Flujo de trabajo](#Flujo-de-trabajo)
+* [Tecnologías a usar](#Tecnologías-a-usar)
+* [Arquitectura de datos](#Arquitectura-de-datos)
+* [Modelo ER](#Modelo-ER)
 
 ## Introducción
 Esta semana trabajaremos las áreas que involucran al data engineering, tenemos el desafío de crear un Data Warehouse completamente funcional que sea accesible tanto para el área de Analitycs como para el área de Machine Learning. Además, debemos tener nuestra base de datos en AWS S3 e implementar transformaciones a nuestros datos para la consulta de ellos.
