@@ -22,4 +22,4 @@ Esto puede estar siendo provocado por diversos factores políticos, sociales y c
 
 |[Hamil Selim](https://www.linkedin.com/in/hamil-balverdi/)  | [Ricardo Lopera](https://www.linkedin.com/in/ricardo-lopera-márquez-839602276/) | [Carolina Hernández](https://www.linkedin.com/in/carolinahernandezbarra/)  | [Lorenzo Prado](https://github.com/gvbrilo)  |
 |---|---|---|---|
-|_Data Analyst_|_Machine Learning_  |_Analista Funcional_|_Data Engineer_|
+|_Data Analyst_|_Data Engineer_  |_Analista Funcional_|_Machine Learning_|
